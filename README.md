@@ -1,14 +1,15 @@
-# React Testing Library Training
-
-What will you learn;
+# React Testing Library Training Overview
 
 ## Sections
 
-1. What is Jest?
-2. What is React Testing Library (RTL)
-3. React Testing Library Ethos: Testing behaviour instead of implementation
-4. Test Structure
-5. Mocking
+1. Jest
+    - What is Jest?
+2. React Testing Library (RTL)
+    - What is RTL?
+    - React Testing Library Ethos: Testing behaviour instead of implementation
+    - Test Structure
+3. Mocking
+    - What is Mocking?
 
 ### What is Jest?
 
@@ -28,7 +29,7 @@ https://testing-library.com/docs/react-testing-library/intro/
 - Show more queries and the matrix of them https://testing-library.com/docs/react-testing-library/cheatsheet#queries
 - user events -> https://testing-library.com/docs/react-testing-library/migrate-from-enzyme#what-is-react-testing-library
 
-### Test structure
+**Test structure**
 
 https://kentcdodds.com/blog/avoid-nesting-when-youre-testing
 
