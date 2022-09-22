@@ -26,7 +26,7 @@ Documentation: https://jestjs.io/
 
 *Starting repository: Start from scratch*
 
-*Example repository: TBA*
+*Example repository: https://github.com/TE-Good/react_testing_library_training_materials_section_one*
 
 ---
 
