@@ -24,10 +24,6 @@ Documentation: https://jestjs.io/
 - Basic functionality with introduction to basic functions
 - Addition of `jest-dom`
 
-*Starting repository: Start from scratch*
-
-*Example repository: https://github.com/TE-Good/react_testing_library_training_materials_section_one*
-
 ---
 
 ### Section 2: React Testing Library

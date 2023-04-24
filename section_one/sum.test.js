@@ -7,7 +7,7 @@ test("sum outputs a sum of two values", () => {
 });
 
 test("sum outputs NaN if you provide strings", () => {
-    const [valueA, valueB] = ["a", "b"];
-    const expectedOutput = sum(valueA, valueB);
-    expect(expectedOutput).toBe(NaN);
+  const [valueA, valueB] = ["a", "b"];
+  const expectedOutput = sum(valueA, valueB);
+  expect(expectedOutput).toBe(NaN);
 })
