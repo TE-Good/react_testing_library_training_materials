@@ -46,10 +46,6 @@ https://kentcdodds.com/blog/avoid-nesting-when-youre-testing
 - setup functions
 - flat test structure
 
-*Starting repository: TBA*
-
-*Example repository: TBA*
-
 ---
 
 ### Section 3: Jest Mocks
@@ -58,7 +54,3 @@ https://kentcdodds.com/blog/avoid-nesting-when-youre-testing
 - A short intro to how they can be used.
 - spyOn, jest.mock, jest.fn. mockImplementation, mockReturnValue
 - How we use them in the eigen codebase.
-
-*Starting repository: TBA*
-
-*Example repository: TBA*
