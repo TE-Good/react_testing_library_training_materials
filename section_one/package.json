@@ -1,0 +1,22 @@
+{
+  "name": "react_testing_library_training_materials",
+  "version": "1.0.0",
+  "description": "What will you learn;",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TE-Good/react_testing_library_training_materials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TE-Good/react_testing_library_training_materials/issues"
+  },
+  "homepage": "https://github.com/TE-Good/react_testing_library_training_materials#readme",
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
+}
