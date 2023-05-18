@@ -1,5 +1,5 @@
 export const TableRow = ({ task, priority, description, alreadyComplete }) => (
-  <tr>
+  <tr data-testid="table-row">
     <td>{task}</td>
     <td>{priority}</td>
     <td>{description}</td>

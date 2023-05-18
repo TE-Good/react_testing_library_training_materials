@@ -52,7 +52,7 @@ export const Form = ({ onClick }) => {
         onChange={(e) => setDescription(e.target.value)}
       ></textarea>
 
-      <label className="example-send-yourself-copy">
+      <label>
         <input
           type="checkbox"
           onClick={() => setAlreadyComplete(!alreadyComplete)}
@@ -62,6 +62,7 @@ export const Form = ({ onClick }) => {
       <input
         className="button-primary"
         type="submit"
+        aria-label="submit"
         disabled={!task}
         onClick={(e) => {
           e.preventDefault();
